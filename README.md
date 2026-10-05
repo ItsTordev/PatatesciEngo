@@ -1,8 +1,7 @@
-I love silly billy cats, coding and im new as a pentester!
+Hi there👋 I'm Tordev and all i do is LARP.
 
 
 My skills:
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,kali,react,arduino,androidstudio,bash,git)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=sublime,vscode)](https://skillicons.dev)
